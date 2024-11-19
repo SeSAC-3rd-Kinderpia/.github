@@ -8,7 +8,7 @@
 ## 🙋 2. Back-End Developers
 
 #### 김어진 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/qldirr)
-- 유저, 관리자
+- 유저, 관리자 관리 시스템 개발
 
 #### 석원준 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ymind14563)
 - 채팅, 신고, 파이프라인 자동화 구축
