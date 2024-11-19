@@ -30,6 +30,8 @@
 
 ## 프로젝트 구조
 
+```
+Kinderpia - Back
 src
  └── main
      ├── java
@@ -52,7 +54,7 @@ src
          ├── data.sql
          └── static
              └── index2.html
-
+```
 
 ## 역할 분담
 
