@@ -1,3 +1,5 @@
+// 요기말구 /profile/README.md 수정해주셔야 합니당
+
 <div align="center">
   <h1>🧒 킨더피아 🐇</h1>
 </div>
