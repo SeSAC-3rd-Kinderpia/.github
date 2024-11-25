@@ -84,7 +84,7 @@
 ## 프로젝트 구조
 
 ```
-Kinderpia - Back
+Kinderpia_back
 src
  └── main
      ├── java
@@ -107,6 +107,28 @@ src
          ├── data.sql
          └── static
              └── index2.html
+```
+```
+Kinderpia_front
+📂src/
+├── 📂api/           # Axios 인스턴스 및 API 관련 함수
+├── 📂assets/        # 아이콘, 이미지 등 정적 리소스
+├── 📂components/    # 컴포넌트 모음
+│  └─ 📂 common ─────────── 📦 공통 컴포넌트
+├── 📂data/          # 사이트 이용약관 & 개발단계에서 활용한 더미데이터 모음
+├── 📂hooks/         # 커스텀 훅 모음
+├── 📂layout/        # 공통 레이아웃 모음
+├── 📂pages/         # 페이지 모음
+├── 📂store/         # 유틸리티 함수
+├── 📂styles/        # 스타일 모음
+│  ├─ 📂 common ─────────── 📦 공통 스타일
+│  │  ├─ _reset.scss ─────── 브라우저의 기본 스타일을 초기화하고 일관된 스타일 기반을 제공
+│  │  ├─ _utils.scss ─────── 전역적으로 사용되는 기본 스타일과 유틸리티 믹스인을 정의
+│  └─ └─ _variables.scss ─── 프로젝트 전반에서 사용되는 글로벌 변수들을 정의
+├── 📂types/         # TypeScript에 활용되는 Type,interface 모음
+└── 📂utils/         # 공통으로 사용되는 유틸 함수 모음
+app.tsx              # React-Route모음
+
 ```
 
 ## 역할 분담
