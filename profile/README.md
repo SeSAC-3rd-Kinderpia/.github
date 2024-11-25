@@ -42,10 +42,10 @@
 
 | Back-End Developers                         | Front-End Developers                           |
 |---------------------------------------------|------------------------------------------------|
-| **김어진** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)  <br>유저 및 관리자 관리 시스템 개발. | **강예나** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yenaf) <br>회원 관리 기능 (회원가입, 로그인, 프로필 관리 등), 튜토리얼 기능 담당. |
+| **김어진** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)  <br>유저 및 관리자 관리 시스템 개발. | **강예나** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yenaf) <br>회원 관리 기능, <br>튜토리얼 기능 담당. |
 | **석원준** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ymind14563) <br>채팅, 신고, 파이프라인 자동화 구축. <br>서버 배포: AWS (EC2, RDS, S3), NGINX. | **이다인** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DAIN302) <br>웹 소켓을 이용한 실시간 채팅 기능 개발. |
 | **유예진** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yjyoo6831) <br>장소 검색 및 리뷰 CRUD 기능 개발. | **양태완** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/behindy3359) <br>모임 기능, 지도 기능, 관리자 페이지 개발. |
-| **윤예슬** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/errorose) <br>모임 관리 시스템 개발. | **이유나** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/youna99) <br>장소 조회/검색 및 리뷰 작성/삭제/신고 기능 담당. |
+| **윤예슬** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/errorose) <br>모임 관리 시스템 개발. | **이유나** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/youna99) <br>장소 조회/검색 및 <br>리뷰 작성/삭제/신고 기능 담당. |
 
 <br>
 
