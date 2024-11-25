@@ -38,42 +38,27 @@
 
 <br>
 
-## 팀원 구성
+## 🙋 2. 팀원 구성
 
-## 🙋 2. Back-End Developers
+| Back-End Developers                         | Front-End Developers                           |
+|---------------------------------------------|------------------------------------------------|
+| **김어진** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)  <br>유저 및 관리자 관리 시스템 개발. | **강예나** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yenaf) <br>회원 관리 기능 (회원가입, 로그인, 프로필 관리 등), 튜토리얼 기능 담당. |
+| **석원준** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ymind14563) <br>채팅, 신고, 파이프라인 자동화 구축. <br>서버 배포: AWS (EC2, RDS, S3), NGINX. | **이다인** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DAIN302) <br>웹 소켓을 이용한 실시간 채팅 기능 개발. |
+| **유예진** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yjyoo6831) <br>장소 검색 및 리뷰 CRUD 기능 개발. | **양태완** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/behindy3359) <br>모임 기능, 지도 기능, 관리자 페이지 개발. |
+| **윤예슬** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/errorose) <br>모임 관리 시스템 개발. | **이유나** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/youna99) <br>장소 조회/검색 및 리뷰 작성/삭제/신고 기능 담당. |
 
-#### 김어진 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/qldirr)
-- 유저, 관리자 관리 시스템 개발
+<br>
 
-#### 석원준 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ymind14563)
-- 채팅, 신고, 파이프라인 자동화 구축
-- 서버 배포: AWS (EC2, RDS, S3), NGINX
+## 📅 3. 개발일정
 
-#### 유예진 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yjyoo6831)
-- 장소 검색, 리뷰 CRUD
+🗓️ 기간 : 2024.10.21 (월) ~ 11.08 (금)
 
-#### 윤예슬 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/errorose)
-- 모임 관리 시스템 개발
+- Jira를 활용한 체계적인 일정 관리와 효율적인 작업 분배
+- 원활한 커뮤니케이션을 통한 프로젝트 진행 상황 실시간 공유
 
-## 🙋 2. Front-End Developers
+![개발일정](https://github.com/user-attachments/assets/036c4b70-714e-411b-b130-f6c007d87b01)
 
-#### 강예나 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yenaf)
-
-- 회원 관리 기능(회원가입, 로그인, 프로필 관리 등), 튜토리얼 기능
-
-#### 이다인 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DAIN302)
-
-- 웹 소켓을 이용한 실시간 채팅
-
-#### 양태완 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/behindy3359)
-
-- 모임 기능, 지도 기능, 관리자 페이지
-
-#### 이유나 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/youna99)
-
-- 장소 조회/검색, 리뷰 작성/삭제/신고
-
-## 개발 일정
+<br>
 
 ## 개발 환경 및 기술 스택
 
